@@ -1,0 +1,5 @@
+create trapeze 0 0 0 0 0 0 0 0
+create rhombus 1 1 1 1 1 1 1 1 
+create pentagon 2 2 2 2 2 2 2 2 2 2
+create trapeze 0 0 0 4 5 0 4 4
+exit
